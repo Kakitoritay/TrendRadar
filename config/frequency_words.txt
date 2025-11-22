@@ -1,8 +1,5 @@
 DeepSeek
 Openai
-qwen
-claude
-grok
 
 比亚迪
 腾势
